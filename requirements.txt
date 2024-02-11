@@ -1,0 +1,7 @@
+fastapi
+pydantic
+sqlmodel
+uvicorn
+pytest
+requests
+psycopg2
